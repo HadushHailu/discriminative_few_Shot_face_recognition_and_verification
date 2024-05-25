@@ -3,13 +3,13 @@ A discriminative few-shot learning approach for face recognition and verificatio
 
 | No | Name | Version |
 |----------|----------|----------|
-| 6 | cuda  | 12.1 |
-| 7 | nvidia driver | 535.104.05 |
-| 1 | tensorflow | 2.15.0 |
-| 2 | retinaface | 0.0.17 |
-| 3 | mtcnn | 0.1.0 |
-| 4 | openface | 19.24.4 |
-| 5 | cv2 | 4.9.0 |
+| 1 | cuda  | 12.2 |
+| 2 | nvidia driver | 535.104.05 |
+| 3 | tensorflow | 2.15.0 |
+| 4 | retinaface | 0.0.17 |
+| 5 | mtcnn | 0.1.0 |
+| 6 | openface | 19.24.4 |
+| 7 | cv2 | 4.9.0 |
 
 
 
