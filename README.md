@@ -17,9 +17,18 @@ A few-shot learning method for face recognition and verification utilizes a Siam
 | 6 | openface | 19.24.4 |
 | 7 | cv2 | 4.9.0 |
 
+### Dataset
+#### Positive Classes
+The positvie class for this project was collected by ourselves from webcam and cropped to be 100x100 pixels. If more datasets is needed it is possible to get a dataset from kaggle using this [link](https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset?resource=download)
+
+#### Negative classes
+The Negative class is collected from [labeled faces in the wild dataset](https://vis-www.cs.umass.edu/lfw/#download)
+
+#### Anchor Classes
+The anchor class contains a copy of shuffled positive class
 
 
-
+### Trained Model(.hs format)
 [Model](https://drive.google.com/file/d/1MslUExsEdewxx0RyH5_wB1QsKaguWzth/view?usp=drive_link)
 
 Presentation
