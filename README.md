@@ -6,6 +6,7 @@ A few-shot learning method for face recognition and verification utilizes a Siam
 ![Example Image](resource/Module_siamese_ntk.png)
 
 
+### Requirement
 | No | Name | Version |
 |----------|----------|----------|
 | 1 | cuda  | 12.2 |
