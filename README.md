@@ -29,7 +29,7 @@ The anchor class contains a copy of shuffled positive class
 
 
 ### Trained Model(.hs format)
-[Model](https://drive.google.com/file/d/1MslUExsEdewxx0RyH5_wB1QsKaguWzth/view?usp=drive_link)
+The trained model cab be downloaded [here](https://drive.google.com/file/d/1MslUExsEdewxx0RyH5_wB1QsKaguWzth/view?usp=drive_link) and be used for inference. 
 
-Presentation
+### Presentation
 [Presentation](https://docs.google.com/presentation/d/1r6ZgzKJysU0XE2EPFiR20TBGDD3QVMhU/edit?usp=sharing&ouid=101643233388980217770&rtpof=true&sd=true)
