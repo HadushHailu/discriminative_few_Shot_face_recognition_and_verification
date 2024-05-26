@@ -36,4 +36,4 @@ Presentation of this project is [here](https://docs.google.com/presentation/d/1r
 
 ## References
 1. [https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
-2. [https://www.sitepoint.com/keras-face-detection-recognition/]
+2. https://www.sitepoint.com/keras-face-detection-recognition/
