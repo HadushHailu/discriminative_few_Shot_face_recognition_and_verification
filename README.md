@@ -5,7 +5,9 @@ A few-shot learning method for face recognition and verification utilizes a Siam
 ## Real-time Face recognition and Verification
    - Score: The likelihood that the bounding box contains a face.
    - Verified: If the confidence score exceeds 85%, this is set to True.
-   - Confidence: The probability indicating how similar the detected face is to the positive class.
+   - Confidence: The probability indicating how similar the detected face is to the positive class.</br>
+
+     The first picture is a positive class and the second one is a negative class. 
      ![result](resource/positive_negative_class.png)
 
 ## Siamese Network Architecture
