@@ -30,10 +30,14 @@ A few-shot learning method for face recognition and verification utilizes a Siam
 The positvie class for this project was collected by ourselves from webcam and cropped to be 100x100 pixels. If more datasets is needed it is possible to get a dataset from kaggle using this [link](https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset?resource=download)
 
 #### Negative classes
-- The Negative class is collected from [labeled faces in the wild dataset](https://vis-www.cs.umass.edu/lfw/#download)
+- The Negative class is collected from [labeled faces in the wild dataset](https://vis-www.cs.umass.edu/lfw/#download).
+- Create a folder named "negative" under the 01_colab_data/data and unzip the dataset there. 
 
 #### Anchor Classes
 - The anchor class contains a copy of shuffled positive class
+
+#### Verification_image
+- Contains 50 samples per individual positive class. 
 
 
 ### Trained Model(.hs format)
