@@ -37,3 +37,9 @@ Presentation of this project is [here](https://docs.google.com/presentation/d/1r
 ## References
 1. [https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 2. https://www.sitepoint.com/keras-face-detection-recognition/
+3. https://medium.com/@iselagradilla94/multi-task-cascaded-convolutional-networks-mtcnn-for-face-detection-and-facial-landmark-alignment-7c21e8007923
+4. https://medium.com/axinc-ai/retinaface-a-face-detection-model-designed-for-high-resolution-6c3900771a01
+5. https://medium.com/@vrushabhkangale/face-recognition-system-using-open-face-480d581986b
+6. https://www.v7labs.com/blog/triplet-loss
+7. https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/
+   
