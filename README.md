@@ -1,6 +1,6 @@
-# discriminative_few_Shot_face_recognition_and_verification
+# Discriminative few Shot face Recognition and Verification
 
-A discriminative few-shot learning approach for face recognition and verification using a Siamese network architecture. Employing a triplet loss function, the model optimizes the embedding space to cluster faces of the same individual and separate those of different individuals, enhancing accuracy and efficiency with limited training data.
+A few-shot learning method for face recognition and verification utilizes a Siamese Network Architecture. By using a triplet loss function, the model refines the embedding space to group faces of the same person together and distinguish those of different people, improving accuracy and efficiency with minimal training data. The original Siamese Network Architecture was introduced by Gregory Koch et al. in the paper !["Siamese Neural Networks for One-shot Image Recognition."](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 
 ![Example Image](resource/Module_siamese_ntk.png)
 
