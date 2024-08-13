@@ -44,7 +44,7 @@ The positvie class for this project was collected by ourselves from webcam and c
 - The trained model cab be downloaded [here](https://drive.google.com/file/d/1MslUExsEdewxx0RyH5_wB1QsKaguWzth/view?usp=drive_link) and be used for inference. 
 
 ## Presentation
-Presentation of this project is [here](https://drive.google.com/drive/u/1/folders/1bfVkrbz1KlbR-7vHCaFQD9IJPU_dgUEW)
+Presentation of this project is [here](https://drive.google.com/file/d/1sNtsAC0xoTB-Uu9APw8YvvSlm2HkKozf/view?usp=sharing)
 
 ## References
 1. [https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
